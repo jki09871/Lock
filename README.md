@@ -23,3 +23,6 @@
 
 ## 시나리오
 ![](src/main/resources/static/images/img6.png)
+
+## 정리
+![](src/main/resources/static/images/img7.png)
